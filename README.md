@@ -3,7 +3,9 @@
 <h2>👨‍💻 My Projects:</h2>
 
 - <b>Python</b>
-  - [Rest API on FastAPI)](https://github.com/RotterPotter/contact_API)
+  - [Rest API on FastAPI](https://github.com/RotterPotter/contact_API)
+  - [Simple Web Page on Django](https://github.com/RotterPotter/django_project)
+  - [Team Project 'CLI-Bot'](https://github.com/VIDIK19/personal-assistant)
 
 <h2> 🤳 Connect with me:</h2>
 
