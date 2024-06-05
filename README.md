@@ -1,9 +1,9 @@
 <h1>Hi, I'm Oleksandr, you can call me Sasha 😁! <br/><a href="https://github.com/RotterPotter">Programmer</a>, <a href="https://www.linkedin.com/in/oleksandrON/">Python Developer</a>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 My Projects:</h2>
 
 - <b>Python</b>
-  - [Rest API on FastAPI)](https://github.com/RotterPotter/contact_API]
+  - [Rest API on FastAPI)](https://github.com/RotterPotter/contact_API)
 
 <h2> 🤳 Connect with me:</h2>
 
