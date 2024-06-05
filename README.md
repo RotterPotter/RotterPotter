@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Python</b>
-  - [Rest API on FastAPI)][https://github.com/RotterPotter](https://github.com/RotterPotter/contact_API]
+  - [Rest API on FastAPI)](https://github.com/RotterPotter/contact_API]
 
 <h2> 🤳 Connect with me:</h2>
 
