@@ -1,4 +1,4 @@
-<h1>Hi, I'm Oleksandr! <br/><a href="https://github.com/RotterPotter">Programmer</a>, <a href="https://www.linkedin.com/in/oleksandrON/">Python Developer</a>
+<h1>Hi, I'm Oleksandr! <br/><a href="https://github.com/RotterPotter">Programmer</a>, <a href="https://www.linkedin.com/in/oleksandrON/">Full Stack Web Developer</a>
 
 <h2>👨‍💻 My Projects:</h2>
 
