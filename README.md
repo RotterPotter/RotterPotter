@@ -2,11 +2,11 @@
 
 <h2>👨‍💻 My Projects:</h2>
 
-- <b>Python</b>
-  - [Rest API on FastAPI](https://github.com/RotterPotter/contact_API)
-  - [Simple Web Page on Django](https://github.com/RotterPotter/django_project)
-  - [Team Project 'CLI-Bot'](https://github.com/VIDIK19/personal-assistant)
-  - [figma](https://www.figma.com/design/kzwkgB04XbFxI86A5yFi7h/Untitled?node-id=1-2&t=Cp9FUiwI1j1ix9PF-1)
+
+- [Rest API on FastAPI](https://github.com/RotterPotter/contact_API)
+- [Simple Web Page on Django](https://github.com/RotterPotter/django_project)
+- [Team Project 'CLI-Bot'](https://github.com/VIDIK19/personal-assistant)
+- [figma](https://www.figma.com/design/kzwkgB04XbFxI86A5yFi7h/Untitled?node-id=1-2&t=Cp9FUiwI1j1ix9PF-1)
 
 <h2> 🤳 Connect with me:</h2>
 
