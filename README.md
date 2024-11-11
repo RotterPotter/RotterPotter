@@ -1,9 +1,10 @@
 <h1>Hi, I'm Oleksandr! <br/><a href="https://github.com/RotterPotter">Programmer</a>, <a href="https://www.linkedin.com/in/oleksandrON/">Full Stack Web Developer</a>
 
 <h2>👨‍💻 My Projects:</h2>
+
 Current:
-  - [FaiVai Web Application](https://github.com/RotterPotter/FaiVai)
-  
+- [FaiVai Web Application](https://github.com/RotterPotter/FaiVai)
+
 - [Rest API on FastAPI](https://github.com/RotterPotter/contact_API)
 - [Simple Web Page on Django](https://github.com/RotterPotter/django_project)
 - [Team Project 'CLI-Bot'](https://github.com/VIDIK19/personal-assistant)
