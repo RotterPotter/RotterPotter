@@ -2,8 +2,10 @@
 
 <h2>👨‍💻 My Projects:</h2>
 
-Current project:
+Current projects:
 - [Ben](https://github.com/RotterPotter/Ben)
+- [Frontend tuscanyai.it](https://github.com/RotterPotter/playground_front)
+- [Backend tuscanyai.it](https://github.com/RotterPotter/playground_API)
 
 Done projects:
 - [Rest API on FastAPI](https://github.com/RotterPotter/contact_API)
