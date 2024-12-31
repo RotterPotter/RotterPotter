@@ -3,7 +3,7 @@
 <h2>👨‍💻 My Projects:</h2>
 
 Current project:
-- [FaiVai Web Application](https://github.com/RotterPotter/FaiVai)
+- [Ben](https://github.com/RotterPotter/Ben)
 
 Done projects:
 - [Rest API on FastAPI](https://github.com/RotterPotter/contact_API)
