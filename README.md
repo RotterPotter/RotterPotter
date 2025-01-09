@@ -6,6 +6,7 @@ Current projects:
 
 
 Done projects:
+- [EmailSenderScript]((https://github.com/RotterPotter/emailSender))
 - [Rest API on FastAPI](https://github.com/RotterPotter/contact_API)
 - [Simple Web Page on Django](https://github.com/RotterPotter/django_project)
 - [Team Project 'CLI-Bot'](https://github.com/VIDIK19/personal-assistant)
