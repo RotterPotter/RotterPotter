@@ -3,7 +3,7 @@
 <h2>👨‍💻 My Projects:</h2>
 
 Current projects:
-
+- [PokerBot](https://github.com/RotterPotter/pokerbot)
 
 Done projects:
 - [Ben](https://github.com/RotterPotter/Ben)
