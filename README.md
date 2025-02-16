@@ -3,9 +3,11 @@
 <h2>👨‍💻 My Projects:</h2>
 
 Current projects:
-- [PokerBot](https://github.com/RotterPotter/pokerbot)
+- [Barbershop CRM with AI automation](https://github.com/RotterPotter/tuscanyai_barbershop_CRM)
+- [Code trading & Strategy Backtesting](https://github.com/RotterPotter/trading)
 
 Done projects:
+- [PokerBot](https://github.com/RotterPotter/pokerbot)
 - [Ben](https://github.com/RotterPotter/Ben)
 - [Frontend tuscanyai.it](https://github.com/RotterPotter/playground_front)
 - [Backend tuscanyai.it](https://github.com/RotterPotter/playground_API)
