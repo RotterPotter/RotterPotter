@@ -8,6 +8,7 @@ Current projects:
 - [Code trading & Strategy Backtesting](https://github.com/RotterPotter/trading)
 
 Done projects:
+- [Ben2](https://github.com/RotterPotter/Ben2)
 - [PokerBot](https://github.com/RotterPotter/pokerbot)
 - [Ben](https://github.com/RotterPotter/Ben)
 - [Frontend tuscanyai.it](https://github.com/RotterPotter/playground_front)
