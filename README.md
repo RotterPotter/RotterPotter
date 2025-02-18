@@ -3,6 +3,7 @@
 <h2>👨‍💻 My Projects:</h2>
 
 Current projects:
+- [Sport Betting Platform](https://github.com/RotterPotter/trust_bet)
 - [Barbershop CRM with AI automation](https://github.com/RotterPotter/tuscanyai_barbershop_CRM)
 - [Code trading & Strategy Backtesting](https://github.com/RotterPotter/trading)
 
