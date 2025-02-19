@@ -5,7 +5,7 @@
 Current projects:
 - [Sport Betting Platform](https://github.com/RotterPotter/trust_bet)
 - [Barbershop CRM with AI automation](https://github.com/RotterPotter/tuscanyai_barbershop_CRM)
-- [Code trading & Strategy Backtesting](https://github.com/RotterPotter/trading)
+- [Code trading & Strategy Backtesting](https://github.com/RotterPotter/jarektrading)
 
 Done projects:
 - [Ben2](https://github.com/RotterPotter/Ben2)
