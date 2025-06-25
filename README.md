@@ -8,7 +8,7 @@ Done projects:
 - [Sport Betting Platform](https://github.com/RotterPotter/trust_bet)
 - [Frontend tuscanyai.it](https://github.com/RotterPotter/playground_front)
 - [Backend tuscanyai.it](https://github.com/RotterPotter/playground_API)
-- [Code trading & Strategy Backtesting](https://github.com/RotterPotter/jarektrading)
+- [Trading App (backtesting/automation/CRM](https://github.com/RotterPotter/trading_app.git)
 - [Ben2](https://github.com/RotterPotter/Ben2)
 - [PokerBot](https://github.com/RotterPotter/pokerbot)
 - [Ben](https://github.com/RotterPotter/Ben)
