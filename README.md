@@ -6,13 +6,12 @@ Current projects:
 
 Done projects:
 - [Sport Betting Platform](https://github.com/RotterPotter/trust_bet)
-- [Barbershop CRM with AI automation](https://github.com/RotterPotter/tuscanyai_barbershop_CRM)
+- [Frontend tuscanyai.it](https://github.com/RotterPotter/playground_front)
+- [Backend tuscanyai.it](https://github.com/RotterPotter/playground_API)
 - [Code trading & Strategy Backtesting](https://github.com/RotterPotter/jarektrading)
 - [Ben2](https://github.com/RotterPotter/Ben2)
 - [PokerBot](https://github.com/RotterPotter/pokerbot)
 - [Ben](https://github.com/RotterPotter/Ben)
-- [Frontend tuscanyai.it](https://github.com/RotterPotter/playground_front)
-- [Backend tuscanyai.it](https://github.com/RotterPotter/playground_API)
 - [EmailSenderScript](https://github.com/RotterPotter/emailSender)
 
 <h2> 🤳 Connect with me:</h2>
